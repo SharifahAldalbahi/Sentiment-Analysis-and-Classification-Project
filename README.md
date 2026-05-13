@@ -31,6 +31,13 @@ a product or not.
 ## 💼 Business Impact
 Helps businesses understand customer satisfaction
 and improve products based on feedback.
+## 📈 Model Results
+
+| Metric | Value |
+|--------|-------|
+| Test Accuracy | 88% |
+| Model | NLP Classification |
+| Technique | TF-IDF + ML |
 
 ## 👩‍💻 Author
 Sharifah Al-Dalbahi
